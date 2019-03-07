@@ -1,4 +1,4 @@
 package oscar
 
 // Version of oscar
-const Version = "v2.0.7"
+const Version = "v3.0.0"

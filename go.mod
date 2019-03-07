@@ -1,1 +1,1 @@
-module github.com/markbates/oscar/v2
+module github.com/markbates/oscar/v3
